@@ -1,0 +1,17 @@
+{% extends "base.html.jinja" %}
+
+{% block content %}
+    <form action="{{url_for('opinions')}}" method="POST">
+        <div class="row">
+            <div class="col-auto">
+                <label for="product_id" class="form-label">Product Id</label>
+                            </div>
+            <div class="col-auto">
+                <input type="text" class="form-control" id="product_id" name="product_id">
+            </div>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-danger">Extract</button>
+            </div>
+        <div>
+    </form>
+{% endblock content %}
