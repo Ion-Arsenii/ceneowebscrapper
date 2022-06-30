@@ -9,6 +9,8 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
+
+
 dest = "en"
 src = "pl"
 translator = Translator()
@@ -46,7 +48,7 @@ opinion_elements = {
 @app.route('/')
 def index():
     name = "Arsenii Ion"
-    return render_template("index.html.jinja", name=name)
+    return render_template("README.html.jinja")
 
 @app.route('/author')
 def author():
