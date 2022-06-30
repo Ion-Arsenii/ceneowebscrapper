@@ -48,7 +48,7 @@ opinion_elements = {
 @app.route('/')
 def index():
     name = "Arsenii Ion"
-    return render_template("README.html.jinja")
+    return render_template("index.html.jinja")
 
 @app.route('/author')
 def author():
