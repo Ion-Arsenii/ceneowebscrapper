@@ -38,6 +38,8 @@
     2) Plots
         1) Share of recommendations in total number of opinions
         2) Frequency histogram of stars
+9)
+
 
 &nbsp;  
 ## List of used libraries
