@@ -127,3 +127,5 @@ and deflate encoding, and proxy for HTTP and SOCKS)
 Werkzeug=Werkzeug is a collection of libraries that can be used to create a WSGI (Web Server Gateway Interface) compatible web application in Python
 
 zipp=(A pathlib-compatible Zipfile object wrapper. Official backport of the standard library Path object)
+
+markdown=Markdown is a plain-text formatting syntax that can be converted to XHTML or other formats
