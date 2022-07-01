@@ -39,7 +39,7 @@
         1) Share of recommendations in total number of opinions
         2) Frequency histogram of stars
 9)Complete Used Libraries list description 
-10)Modifying the routing to the home page (/) in such a way that the interpreted content of the README.md file is displayed on it
+10)Modifying the routing to the home page (/) in such a way that the interpreted content of the README.md file is displayed on it.
 
 
 &nbsp;  
